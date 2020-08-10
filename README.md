@@ -1,9 +1,11 @@
 # Expo-weighted-GC-content
 Calculates and generates a graph for an exponentially weighted average of a DNA or RNA transcript.
 
+
 Dependencies:
 NumPy 
 Matplotlib
+Possibly Python 3.6 
 
 How to use:
 Enter transcript of interest into sequence assignment.
