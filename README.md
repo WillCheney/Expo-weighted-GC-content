@@ -1,5 +1,5 @@
 # Expo-weighted-GC-content
-Calculates and generates a graph for an exponentially weighted average of a DNA or RNA transcript.
+##Calculates and generates a graph for an exponentially weighted average of a DNA or RNA transcript.
 
 
 Dependencies:
@@ -15,6 +15,6 @@ Run
 
 Play with the value of theta to average over longer or shorter bp regions
 
-
+![Example_Figure](/GC-content of Class A GPCR.png)
 
 
